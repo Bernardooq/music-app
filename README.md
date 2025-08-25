@@ -21,3 +21,7 @@ It allows users to sign up, log in, create playlists, search for songs, and play
 ```bash
 cd backend
 uvicorn main:app --reload
+```
+
+### Frontend
+Simply open http://localhost:8000 in your browser 
